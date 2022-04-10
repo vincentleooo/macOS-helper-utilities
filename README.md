@@ -16,3 +16,7 @@ How to use:
 How it looks after dragging:
 
 ![Untitled copy](https://user-images.githubusercontent.com/55942045/162610463-2ec4f6a8-fad5-45ad-ab78-08818dacfe7e.png)
+
+## Keyboard utilities
+
+- [`karabiner.json`](karabiner/karabiner.json) is the JSON configuration rules for Karabiner-Elements. This contains most of my shortcuts and key-bindings.
